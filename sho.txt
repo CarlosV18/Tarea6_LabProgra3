@@ -1,0 +1,67 @@
+ANIMACION_IDLE_RIGHT
+{
+  sho/standing/1.png
+  sho/standing/2.png
+  sho/standing/3.png
+  sho/standing/4.png
+}
+
+ANIMACION_IDLE_LEFT{
+  sho/standing_left/1.png
+  sho/standing_left/2.png
+  sho/standing_left/3.png
+  sho/standing_left/4.png
+}
+
+
+
+ANIMACION_WALKING_RIGHT{
+  sho/walk/1.png
+  sho/walk/2.png
+  sho/walk/3.png
+  sho/walk/4.png
+  sho/walk/5.png
+}
+
+
+
+ANIMACION_WALKING_LEFT{
+  sho/walk_left/1.png
+  sho/walk_left/2.png
+  sho/walk_left/3.png
+  sho/walk_left/4.png
+  sho/walk_left/5.png
+}
+
+
+
+ANIMACION_ATACANDO_STARTUP_RIGHT
+{
+  sho/punch/1.png
+}
+
+
+
+ANIMACION_ATACANDO_ACTIVE_RIGHT
+{
+  sho/punch/2.png
+}
+
+
+
+ANIMACION_ATACANDO_RECOVERY_RIGHT
+{
+  sho/punch/3.png
+}
+
+ANIMACION_ATACANDO_STARTUP_LEFT{
+  sho/punch_left/1.png
+}
+
+ANIMACION_ATACANDO_ACTIVE_LEFT{
+  sho/punch_left/2.png
+}
+
+ANIMACION_ATACANDO_RECOVERY_LEFT{
+  sho/punch_left/3.png
+}
